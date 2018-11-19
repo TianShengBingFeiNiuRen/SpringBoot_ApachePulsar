@@ -1,0 +1,4 @@
+server:
+  port: 5001
+
+pulsarServiceUrl: pulsar://localhost:6650

@@ -5,7 +5,6 @@ Apache Pulsar 分布式pub-sub消息系统
 
 	Apache Pulsar是一个开源的分布式pub-sub消息系统，最初是在雅虎创建的，现在是Apache软件基金会的一个孵化器项目。
   
-  
 <dependency>
     <groupId>org.apache.pulsar</groupId>
     <artifactId>pulsar-client</artifactId>

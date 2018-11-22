@@ -13,7 +13,7 @@ Apache Pulsar 分布式pub-sub消息系统
 </dependency>
 ```
 PulsarService.java跳转:
-https://github.com/TianShengBingFeiNiuRen/pulsar-demo/blob/master/src/main/java/com/andon/pulsar/pulsardemo/service/PulsarService.java
+https://github.com/TianShengBingFeiNiuRen/SpringBoot_ApachePulsar/blob/master/src/main/java/com/andon/pulsar/pulsardemo/service/PulsarService.java
 
 CSDN:
 https://blog.csdn.net/weixin_39792935/article/details/84259476
